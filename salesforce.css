@@ -1,0 +1,68 @@
+
+.customerHome td {
+	width: 50%;
+	vertical-align: top;
+}
+
+.customerHome td h3 {
+	width: 48%;
+	text-align: right;
+	display: inline;
+	float:left;
+	padding-right: 10px;
+	margin-top: 0;
+	margin-bottom: 0;
+	white-space: nowrap;
+	color: #4A4A56;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	height: 15px;
+}
+
+.customerHome td div.left-half,
+.customerHome td div.right-half {
+	width: 48%;
+	text-align: left;
+	display: inline;
+	float:right; 
+	color: black;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+table.recentTable td {
+	background-color: #FFC;
+
+	border-collapse: separate;
+	
+	border: 1px solid #39F;
+	border-radius: 4px;
+	color: black;
+	display: block;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	height: 16px;
+	margin: 0 0 10px 0;
+	padding: 6px 8px 6px 6px;
+}
+
+div.NavigationBar {
+	text-align: center;
+}
+
+table.subMenuTable {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+table.subMenuTable td {
+	padding-right: 10px;
+}
+
+table.subMenuTable a {
+	color: #4A4A56;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+}
